@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20JiHwan&fontSize=90)
+
 <!--
 **vewevteen/vewevteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
