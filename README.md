@@ -4,6 +4,7 @@
 
 ## 🧰 Languages and Tools
 <div>  
+  
   ![Typescript Badge](http://img.shields.io/badge/-Typescript-000?style=flat-square&logo=typescript)
   ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript)
   ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react)
