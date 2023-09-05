@@ -21,6 +21,12 @@
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intelliJ%20idea)
   </div>
 
+<h3>Open Source Contribution</h3>
+
+- [TypeScript-Website-Localizations]([https://github.com/pqina/react-filepond](https://github.com/microsoft/TypeScript-Website-Localizations))
+  - [Translate 1 file to ko - Mobile Support](https://github.com/microsoft/TypeScript-Website-Localizations/pull/91)
+  - [Translate 1 file to ko - Typescript Version](https://github.com/microsoft/TypeScript-Website-Localizations/pull/89)
+
 <!--
 **vewevteen/vewevteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
