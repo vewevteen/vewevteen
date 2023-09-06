@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi%20I'm%20JiHwan&fontSize=70)
 
-<h3>Languages and Tools</h3>
+## Languages and Tools
 <div>  
   
   ![Typescript Badge](http://img.shields.io/badge/-Typescript-000?style=flat-square&logo=typescript)
@@ -21,7 +21,7 @@
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intelliJ%20idea)
   </div>
 
-<h3>Open Source Contribution</h3>
+## Open Source Contribution
 
 - [TypeScript-Website-Localizations]([https://github.com/pqina/react-filepond](https://github.com/microsoft/TypeScript-Website-Localizations))
   - [Translate 1 file to ko - Mobile Support](https://github.com/microsoft/TypeScript-Website-Localizations/pull/91)
