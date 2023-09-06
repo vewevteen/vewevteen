@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi%20I'm%20JiHwan&fontSize=70)
 
-## 🧰 Languages and Tools
+<h3>Languages and Tools</h3>
 <div>  
   
   ![Typescript Badge](http://img.shields.io/badge/-Typescript-000?style=flat-square&logo=typescript)
