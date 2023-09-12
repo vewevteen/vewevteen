@@ -26,6 +26,9 @@
 - [TypeScript-Website-Localizations]([https://github.com/pqina/react-filepond](https://github.com/microsoft/TypeScript-Website-Localizations))
   - [Translate 1 file to ko - Mobile Support](https://github.com/microsoft/TypeScript-Website-Localizations/pull/91)
   - [Translate 1 file to ko - Typescript Version](https://github.com/microsoft/TypeScript-Website-Localizations/pull/89)
+ 
+- [adorable-css](https://github.com/developer-1px/adorable-css/pull/73)
+  - [docs: background 페이지 오탈자 수정](https://github.com/developer-1px/adorable-css/pull/73)
 
 <!--
 **vewevteen/vewevteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
