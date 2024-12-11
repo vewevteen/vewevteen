@@ -31,12 +31,6 @@
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intelliJ%20idea)
   </div>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vewevteen/vewevteen/ebda42437cb15d59953526f9cf627ba1c71d5b55/vewevteen-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vewevteen/vewevteen/ebda42437cb15d59953526f9cf627ba1c71d5b55/vewevteen-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vewevteen/vewevteen/vewevteen-light.svg" />
-</picture>
-
 ## Open Source Contribution
 
 - [TypeScript-Website-Localizations]([https://github.com/pqina/react-filepond](https://github.com/microsoft/TypeScript-Website-Localizations))
